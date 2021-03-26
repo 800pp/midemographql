@@ -3,21 +3,21 @@
 ### Lenguajes:
   - Typescript.
 ### Libraries / Frameworks:
-  + Client:
+   Client:
         + React
         + Chakra-UI
-  + Server:
+   Server:
         + Apollo-Server
         + TypeGraphQl
         + TypeORM
         + Express
 ### Instalación por consola:
-  + En carpeta Client/Server: 
+   En carpeta Client/Server: 
          + npm install
 ### Commandos:
-  + Client:
+   Client:
          + npm run dev: Iniciar entorno de desarrollo del cliente(Front end).
-  + Server:
+   Server:
          + npm run watch: Traducir archivos typescript a javascript. Si uno hace cambios en los archivos typescript y no corre este comando, los cambios no se aplicarán.
          + npm run dev: Iniciar entorno de desarrollo del servidor(Back end).
    
