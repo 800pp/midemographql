@@ -4,13 +4,13 @@
   - Typescript.
 ### Libraries / Frameworks:
    * Client:
-        * React
-        * Chakra-UI
+      * React
+      * Chakra-UI
    * Server:
-        * Apollo-Server
-        * TypeGraphQl
-        * TypeORM
-        * Express
+      * Apollo-Server
+      * TypeGraphQl
+      * TypeORM
+      * Express
 ### Instalación por consola:
    * En carpeta Client/Server: 
          * npm install
