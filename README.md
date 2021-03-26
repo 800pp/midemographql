@@ -8,7 +8,7 @@
       * Chakra-UI
    * Server:
       * Apollo-Server
-      * TypeGraphQl
+      * TypeGraphQL
       * TypeORM
       * Express
 ### Instalación por consola:
